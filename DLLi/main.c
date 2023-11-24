@@ -1,3 +1,7 @@
+// Standard DLL Injection with no special techniques
+// https://github.com/Solaar7/Maldev
+// Please do not use this code maliciously without EXPLICIT permission
+
 #include <windows.h>
 #include <stdio.h>
 
