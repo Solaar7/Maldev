@@ -1,0 +1,14 @@
+#include <Windows.h>
+// This can be changed to actually be malicious, but pls dont :)
+BOOL __stdcall DllMain(HINSTANCE hModule, DWORD dwReason, LPVOID lpvReserved) {
+
+    switch (dwReason) {
+
+    case DLL_PROCESS_ATTACH:
+        MessageBoxW(NULL, L"PWNED", L"Hacked", MB_ICONEXCLAMATION);
+        break;
+    }
+
+    return TRUE;
+
+}
