@@ -44,7 +44,7 @@ int main() {
 	DWORD						cProcesses				= NULL;
 	CLIENT_ID					CID;
 
-	wchar_t						dllPath[MAX_PATH]		= L"C:\\Users\\Garyg\\source\\repos\\Maldev\\randomDLL.dll";
+	wchar_t						dllPath[MAX_PATH]		= L"PATH TO EVIL DLL";
 	size_t						pathSize				= sizeof(dllPath);
 	size_t						bytesWritten			= 0;
 	OBJECT_ATTRIBUTES			OA						= { sizeof(OA), NULL };
