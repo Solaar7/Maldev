@@ -12,6 +12,11 @@ Finally, you can go to Command Prompt, travel to the directory with code in it, 
 Then simply run the code with 
 `outputfile.exe`
 
+### Note
+All of these use the DLL in the main directory. ALl projects will have to be modified slightly based on where you put the DLL.
+
 ## Disclaimer
 All the code here is open-source and free to use at your discretion. Although this should be common sense, do not use the techniques I'm showing against any target without their EXPLICIT permission.
 
+## Inspiration
+This repository was inspired by Crow, a Computer Science youtuber who covers mosts of these projects in more detail. Check him out on [Youtube](https://www.youtube.com/@crr0ww) and his [Website](https://www.crow.rip/crows-nest/general/whoami)
