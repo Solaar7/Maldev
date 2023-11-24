@@ -13,7 +13,7 @@ Then simply run the code with
 `outputfile.exe`
 
 ### Note
-All of these use the DLL in the main directory. ALl projects will have to be modified slightly based on where you put the DLL.
+All of these use the DLL in the main directory. All projects will have to be modified slightly based on where you put the DLL.
 
 ## Disclaimer
 All the code here is open-source and free to use at your discretion. Although this should be common sense, do not use the techniques I'm showing against any target without their EXPLICIT permission.
